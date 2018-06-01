@@ -6,13 +6,13 @@
 
 預處理階段
 
-![gcc1](/pic/gcc c to i.png)
+![gcc1](/pic/gccctoi)
 
 編譯階段
 
-![gcc2](/pic/gcc i to s.png)
+![gcc2](/pic/gccitos)
 
 組譯階段
 
-![gcc3](/pic/gcc s to o.png)
+![gcc3](/pic/gccstoo)
 
