@@ -6,15 +6,15 @@
 
 預處理階段
 
-![1](/pic/gcc c to i.png)
+![1](/pic/ci.png)
 
 編譯階段
 
-![2](/pic/gcc i to s.png)
+![2](/pic/is.png)
 
 組譯階段
 
-![3](/pic/gcc s to o.png)
+![3](/pic/so.png)
 
 連結階段
 
