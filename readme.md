@@ -2,4 +2,5 @@
 
 建立C語言程式碼
 
-![gedit](pic/gedit)
+![gedit](/pic/gedit.png)
+
